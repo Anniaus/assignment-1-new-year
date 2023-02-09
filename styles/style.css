@@ -1,0 +1,61 @@
+/* banner styles */
+.banner{
+    font-family: 'Work Sans', sans-serif;
+    text-align: right;
+    display: flex;background-color:lightgray;
+    justify-content: center;
+
+    
+    
+}
+
+.title{
+    color: 
+    #151414;
+    font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+margin-right: 100px;
+    margin-left: 300px;
+    margin-top: 150px;
+    margin-bottom: 0;
+
+
+
+}
+.sub-title{
+    font-weight: 400;
+font-size: 16px;
+color: #444343;
+margin-right: 100px;
+    margin-left: 300px;
+}
+.primary-button{
+    margin-right: 100px;
+    margin-left: 300px;
+    background: #F15B22;
+    border: 0;
+border-radius: 5px;
+border-color: none;
+font-weight: 600;
+font-size: 20px;
+color: #FFFFFF;
+padding: 10px 12px;
+}
+/* popular belief */
+.popularbelief{
+    display: flex;
+    align-items: center;
+  justify-content: space-between;
+  margin: 120px 100px;
+
+}
+.second-title{
+    font-weight: 700;
+font-size: 40px;
+margin-right: 250px;
+margin-left: 20px;
+color: #151414;
+font-family: 'Work Sans'
+
+}
